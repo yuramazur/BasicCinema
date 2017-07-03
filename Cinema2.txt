@@ -1,0 +1,35 @@
+MONDAY
+- 09:00 Chappie 03:00
+- 13:00 Chappie 03:00
+- 16:00 FightClab 03:00
+- 19:00 FightClab 03:00
+TUESDAY
+- 09:00 Chappie 03:00
+- 13:00 Chappie 03:00
+- 16:00 FightClab 03:00
+- 19:00 FightClab 03:00
+WEDNESDAY
+- 09:00 Chappie 03:00
+- 13:00 Chappie 03:00
+- 16:00 FightClab 03:00
+- 19:00 FightClab 03:00
+THURSDAY
+- 09:00 Chappie 03:00
+- 13:00 Chappie 03:00
+- 16:00 FightClab 03:00
+- 19:00 FightClab 03:00
+FRIDAY
+- 09:00 Chappie 03:00
+- 13:00 Chappie 03:00
+- 16:00 FightClab 03:00
+- 19:00 FightClab 03:00
+SATURDAY
+- 09:00 Chappie 03:00
+- 13:00 Chappie 03:00
+- 16:00 FightClab 03:00
+- 19:00 FightClab 03:00
+SUNDAY
+- 09:00 Chappie 03:00
+- 13:00 Chappie 03:00
+- 16:00 FightClab 03:00
+- 19:00 FightClab 03:00
